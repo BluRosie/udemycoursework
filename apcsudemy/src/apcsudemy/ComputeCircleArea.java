@@ -11,10 +11,10 @@ public class ComputeCircleArea {
 		input = new Scanner(System.in);
 		System.out.print("Enter a number to be the radius: ");
 		
-		double radius = input.nextInt();
+		double radius = input.nextDouble();
 		double area;
 		
-		area = radius * radius * 3.141592654; //approximately pi
+		area = radius * radius * MATH.Pi;
 		System.out.print("The area for circle with radius " + radius + " is " + area + ".");
 	}
 }
