@@ -8,7 +8,7 @@ public class ComputeCircleArea {
 	
 	public static void main(String[] args)
 	{
-        input = new Scanner(System.in);
+		input = new Scanner(System.in);
 		System.out.print("Enter a number to be the radius: ");
 		
 		double radius = input.nextInt();
