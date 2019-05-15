@@ -1,0 +1,1 @@
+cd 'c:\udemycoursework'; & 'C:\Users\Public\frc2019\jdk\bin\java' '-Dfile.encoding=UTF-8' '-cp' 'C:\udemycoursework\apcsudemy\bin' 'apcsudemy.WaterQualityIndex'
