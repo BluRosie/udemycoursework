@@ -1,0 +1,12 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - WaterQualityIndex",
+            "request": "launch",
+            "mainClass": "apcsudemy.WaterQualityIndex",
+            "projectName": "notevensure",
+            "console": "integratedTerminal"
+        }
+    ]
+}

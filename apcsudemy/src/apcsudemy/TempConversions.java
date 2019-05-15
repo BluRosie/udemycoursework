@@ -1,4 +1,4 @@
-package apcsudemy;
+/*package apcsudemy;
 
 import java.util.Scanner;
 
@@ -43,6 +43,7 @@ public class TempConversions {
 						result = (degrees + 273.15);
 						break;
 				break;
+				}
 			case F:
 				switch (targetSystem) {
 					case C:
@@ -55,6 +56,7 @@ public class TempConversions {
 						
 						break;
 				break;
+				}
 			case R:
 				switch (targetSystem) {
 					case C:
@@ -67,6 +69,7 @@ public class TempConversions {
 						
 						break;
 				break;
+				}
 			case K:
 				switch (targetSystem) {
 					case C:
@@ -79,7 +82,9 @@ public class TempConversions {
 						
 						break;
 				break;
+				}
 	
 		System.out.print(degrees + " in the " + srcSystem + " system is " + result + " in the " + targetSystem + "system.");
 	}
 }
+*/
